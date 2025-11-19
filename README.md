@@ -1,6 +1,8 @@
 # Hand Gesture Recognition (HGR)
 
 A real-time Hand Gesture Recognition system built using **Python, OpenCV, and MediaPipe**.  
+This project is build with my team members and presented in our college.
+
 The program detects hand landmarks through the webcam and classifies gestures such as:
 
 - ✊ Fist  
@@ -31,3 +33,4 @@ pip install -r requirements.txt
 
 2. Run the program:
 python hgr.py
+
